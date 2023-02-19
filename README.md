@@ -1,2 +1,2 @@
 # PROJETO-DE-JAVA---UBER
-Projeto feito em java que simula o Uber
+Projeto feito em java utilizando e explicando vários conceitos da linguagem simulando o Uber.
